@@ -1,0 +1,1703 @@
+[
+    {
+        "id": "1",
+        "Location": "Bournemouth",
+        "Type": "Private Rented",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Alumhurst",
+        "Description": "A one bedroom flat located in the heart of Bournemouth close to university and local amenities.",
+        "pImage": "./images/properties/image1.png",
+        "AltText": "Image of Alumhurst two story building located on a corner plot, with a balcony, front garden and a road passing by the side of the property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7192,
+            -1.8808
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "2",
+        "Location": "Boscombe",
+        "Type": "Private Rented",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Minstead",
+        "Description": "A one bedroom flat located in Boscombe, only a bus ride away from campus.",
+        "pImage": "./images/properties/image2.png",
+        "AltText": "Image of the Minstead building that has been converted into flats over three floors, outside of the building is a front garden filled with bushes.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7245,
+            -1.8485
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "3",
+        "Location": "Poole",
+        "Type": "Managed Accomodation",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Tania",
+        "Description": "Managed accomodation located in Poole, located near the old town. Room is fully fitted out with a kitchen, bathroom and en-suite bathroom",
+        "pImage": "./images/properties/image3.png",
+        "AltText": "Image of the Tania managed apartment block occupying four floors surrounded with space for parking vehicles.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7150,
+            -1.9872
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "4",
+        "Location": "Bournemouth",
+        "Type": "Shared House",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Foxtrot Point",
+        "Description": "A shared house suitable for three people in Bournemouth, only a quick walk from the central gardens.",
+        "pImage": "./images/properties/image4.png",
+        "AltText": "Image of the Foxtrot Point modern shared house with parking spaces for four vehicles out the front located on a quiet street.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7202,
+            -1.8808
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "5",
+        "Location": "Boscombe",
+        "Type": "Shared House",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Lyme Regis House",
+        "Description": "A shared house suitable for three people in Boscombe with parking for two cars.",
+        "pImage": "./images/properties/image5.png",
+        "AltText": "Image of the Lyme Regis shared house fitted with large bay windows on both the ground and first floors.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7255,
+            -1.8495
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "6",
+        "Location": "Poole",
+        "Type": "Shared House",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Oxford Point",
+        "Description": "A shared house suitable for four people located in Pooles old town.",
+        "pImage": "./images/properties/image001.jpg",
+        "AltText": "Image of the Oxford Point shared house that has been recently painted in new white paint. Outside the front of the house is room for parking two cars.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7130,
+            -1.9872
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "7",
+        "Location": "Bournemouth",
+        "Type": "Private Rented",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Aberfoyle",
+        "Description": "A private rented apartment with a balcony in Bournemouth.",
+        "pImage": "./images/properties/image002.jpg",
+        "AltText": "Image of the Aberfoyle new apartment building with balconys on each of the four floors and windows looking out onto the street.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7260,
+            -1.8760
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "8",
+        "Location": "Boscombe",
+        "Type": "Managed Accomodation",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "The Laurels",
+        "Description": "Managed accomodation located in Boscombe with apartments suitable for up to six people.",
+        "pImage": "./images/properties/image022.jpeg",
+        "AltText": "Image of the Laurels four storey apartment block located up a hill with balconys and windows surrounding the property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7245,
+            -1.8385
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "9",
+        "Location": "Poole",
+        "Type": "Private Rented",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Treetops",
+        "Description": "A two bedroom private rented house located in Poole.",
+        "pImage": "./images/properties/image004.jpg",
+        "AltText": "Image of the Treetops old bungalow style property with a front garden on the left side and parking on the right side.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7150,
+            -1.9899
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "10",
+        "Location": "Bournemouth",
+        "Type": "Private Rented",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Orchard House",
+        "Description": "A one bedroom private rented flat located on Bournemouth highstreet.",
+        "pImage": "./images/properties/image005.jpg",
+        "AltText": "Image of Orchard House apartment located above Kinson Cards on the highstreet, there are two windows above the shop with one of them being a bay window.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7164,
+            -1.8808
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "11",
+        "Location": "Boscombe",
+        "Type": "Private Rented",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "The Hollies",
+        "Description": "A one bedroom flat located in Boscombe highstreet close to the local bus stop.",
+        "pImage": "./images/properties/image006.jpeg",
+        "AltText": "Image of the Hollies flat located on Boscombe highstreet above a hair salon.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7245,
+            -1.8285
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "12",
+        "Location": "Poole",
+        "Type": "Shared House",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Springfield",
+        "Description": "A two bedroom flat located in Poole, near the train station to take you to Bournemouth.",
+        "pImage": "./images/properties/image007.jpeg",
+        "AltText": "Image of Springfield shared house with large bay windows on both floors, with a front garden containing a few plants.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7150,
+            -1.9772
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "13",
+        "Location": "Bournemouth",
+        "Type": "Shared House",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Highfield",
+        "Description": "A shared house suitable for three people in Bournemouth with a parking space for one vehicle.",
+        "pImage": "./images/properties/image008.jpeg",
+        "AltText": "Image of a Highfield semi-detached shared house with room on the driveway for one vehicle with further parking available on the street.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7292,
+            -1.8708
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "14",
+        "Location": "Boscombe",
+        "Type": "Shared House",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Honeysuckle",
+        "Description": "A shared house suitable for six people in Boscombe, with gardens surrounding the property and ample parking available.",
+        "pImage": "./images/properties/image009.jpeg",
+        "AltText": "Image of a Honeysuckle shared house with windows on all sides surrounded by gardens and trees with parking along the right hand side suitable for all types of vehicle.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7245,
+            -1.8355
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "15",
+        "Location": "Poole",
+        "Type": "Managed Accomodation",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Woodside",
+        "Description": "Managed accomodation above a row of shops in the center of Poole, providing access to Bournemouth by bus or train.",
+        "pImage": "./images/properties/image010.jpeg",
+        "AltText": "Image of Woodside managed accomodation located above a row of shops with bus stops located arround the building.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7165,
+            -1.9772
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "16",
+        "Location": "Bournemouth",
+        "Type": "Shared House",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Toad Hall",
+        "Description": "A one bedroom flat located in Bournemouth above a restaurant on the highstreet close to the beach.",
+        "pImage": "./images/properties/image011.jpeg",
+        "AltText": "Image of the Toad Halll shared house located above the Natn Restaurant on Bournemouth highstreet.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7162,
+            -1.8834
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "17",
+        "Location": "Boscombe",
+        "Type": "Private Rented",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Haven",
+        "Description": "A one bedroom flat located in Boscombe with parking provided for all residents living within the building.",
+        "pImage": "./images/properties/image012.jpeg",
+        "AltText": "Image of the Haven flats covering three stories with parking spaces availiable out the front of the property for all residents.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7255,
+            -1.8335
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "18",
+        "Location": "Poole",
+        "Type": "Private Rented",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Fairview",
+        "Description": "A one bedroom flat in Pooles old town with plenty of parking and close to local shops.",
+        "pImage": "./images/properties/image013.jpeg",
+        "AltText": "Image of the Fairview flats covering three stories with parking spaces availiable out the front of the property for all residents.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7150,
+            -1.9864
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "19",
+        "Location": "Bournemouth",
+        "Type": "Managed Accomodation",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Thornfield",
+        "Description": "A two bedroom flat located in Bournemouth. Quick and easy access to university via the highway.",
+        "pImage": "./images/properties/image014.jpeg",
+        "AltText": "Image of the Thornfield managed accomodation, which is a three story white building with a small front garden filled with greenary and parking spaces for tennants.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7198,
+            -1.8865
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "20",
+        "Location": "Boscombe",
+        "Type": "Shared House",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Firs",
+        "Description": "A one bedroom flat located in a new housing estate in Boscombe.",
+        "pImage": "./images/properties/image015.jpeg",
+        "AltText": "Image of the Firs shared house with a large front garden and huge windows covering the front of the property to let in natural light.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7267,
+            -1.8285
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "21",
+        "Location": "Poole",
+        "Type": "Shared House",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Nook",
+        "Description": "A shared house suitable for four people in the heart of Poole.",
+        "pImage": "./images/properties/image016.jpeg",
+        "AltText": "Image of the Nook shared house with plenty of on street parking for all tennants and large windows on at loft conversion providing views of the gardens.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7158,
+            -1.9832
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "22",
+        "Location": "Bournemouth",
+        "Type": "Private Rented",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Gables",
+        "Description": "A one bedroom bungalow located in Bournemouth. Bungalow contains a bedroom, bathroom, kitchen and parking spaces.",
+        "pImage": "./images/properties/image017.jpeg",
+        "AltText": "Image of the Gables bungalow property located in a secluded private drive away from busy streets.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7172,
+            -1.8808
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "23",
+        "Location": "Boscombe",
+        "Type": "Managed Accomodation",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Beeches",
+        "Description": "Managed accomodation in Boscombe with a view over the sea from the top floor balcony.",
+        "pImage": "./images/properties/image018.jpeg",
+        "AltText": "Image of the Beeches managed accomodation located upon a hill in Boscombe, with balcony's and roof tops terraces covering the length of the building.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7225,
+            -1.8385
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "24",
+        "Location": "Poole",
+        "Type": "Shared House",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Highclere",
+        "Description": "A shared house suitable for three people in Poole, situated close to the main road into Bournemouth.",
+        "pImage": "./images/properties/image019.jpeg",
+        "AltText": "Image of Highclere shared house with large windows on all three floors, with a front garden containing a few plants.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7160,
+            -1.9885
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "25",
+        "Location": "Bournemouth",
+        "Type": "Shared House",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "The Cherries",
+        "Description": "A two bedroom flat located in Bournemouth with one parking space provided.",
+        "pImage": "./images/properties/image020.jpeg",
+        "AltText": "Image of the Cherries shared house with a front garden, parking and a porch for when you first step into the property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7196,
+            -1.8805
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "26",
+        "Location": "Bournemouth",
+        "Type": "Private Rented",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Aquapure",
+        "Description": "A one bedroom apartment on the second floor, located close to the heart of Bournemouth with easy access to the shops and university.",
+        "pImage": "./images/properties/image021.jpeg",
+        "AltText": "Image of the Aquapure apartment located on the corner of the block with parking along the side of the building.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7175,
+            -1.8808
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "27",
+        "Location": "Bournemouth",
+        "Type": "Private Rented",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Sands of Time",
+        "Description": "A private rented apartment located on a hill in Bournemouth. The property has windows on all sides proving great views from the upper floors over the surrounding area.",
+        "pImage": "./images/properties/image022.jpeg",
+        "AltText": "Image of a four storey apartment block located up a hill with balconys and windows surrounding the property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7180,
+            -1.8822
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "28",
+        "Location": "Bournemouth",
+        "Type": "Private Rented",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "The Old Vicarage",
+        "Description": "A one bedroom terrace appartment, fully furnished wish a kitchen and laundry room.",
+        "pImage": "./images/properties/image023.jpeg",
+        "AltText": "Image of the Old Vicarage row of terrace apartments, front garden has been converted into parking for one vehicle without a fence seperating each property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7183,
+            -1.8808
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "29",
+        "Location": "Bournemouth",
+        "Type": "Private Rented",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Finchfield",
+        "Description": "A two bedroom terrace house with a communal back garden and front garden.",
+        "pImage": "./images/properties/image024.jpeg",
+        "AltText": "Image of the Finchfield terrace house with a large communal front garden for socialising with friends.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7182,
+            -1.8806
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "30",
+        "Location": "Bournemouth",
+        "Type": "Private Rented",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "The Barn",
+        "Description": "A two bedroom house with a front and back garden.",
+        "pImage": "./images/properties/image025.jpeg",
+        "AltText": "Image of the Barn terrace property with large windows on the top floor letting in natural light overlooking the front garden.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7189,
+            -1.8899
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "31",
+        "Location": "Bournemouth",
+        "Type": "Shared House",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Yew Tree Cottage",
+        "Description": "An old two story house with four bedrooms, large back garden perfect for the summer.",
+        "pImage": "./images/properties/image026.jpeg",
+        "AltText": "Image of Yew Tree Cottage and the properties large green open gardens perfect for entertaining guests.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7187,
+            -1.8708
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "32",
+        "Location": "Bournemouth",
+        "Type": "Shared House",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Sandy Shore",
+        "Description": "A modern three story house in Bournemouth suitable for eight people with a double garage for parking below the property.",
+        "pImage": "./images/properties/image027.jpeg",
+        "AltText": "Image of Shandy Shore, a modern three story house with the garage on the group floor, living spaces on the first floor and bedroom with en-suite on the top floor.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7192,
+            -1.8808
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "33",
+        "Location": "Bournemouth",
+        "Type": "Shared House",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "La Costa Lot",
+        "Description": "A two bedroom apartment with a window balcony looking out over the highstreet.",
+        "pImage": "./images/properties/image028.jpeg",
+        "AltText": "Image of the La Costa Lot situated above a local business on the hightreet, the property has four large windows letting in lots of natural light.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7179,
+            -1.8819
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "34",
+        "Location": "Bournemouth",
+        "Type": "Shared House",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Rose House",
+        "Description": "A two bedroom apartment located above a row of shops in Bournemouth.",
+        "pImage": "./images/properties/image029.jpeg",
+        "AltText": "Image of the rose house, located above a local business on the highstreet with windows facing out onto the highstreet.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7173,
+            -1.8801
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "35",
+        "Location": "Bournemouth",
+        "Type": "Shared House",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "The Old School",
+        "Description": "A house suitable for five people located inside an old school building.",
+        "pImage": "./images/properties/image030.jpeg",
+        "AltText": "Image of the old school property which is a property set back slightly from the main road with large hexagonal windows and parking out the front of the property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7193,
+            -1.8800
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "36",
+        "Location": "Bournemouth",
+        "Type": "Managed Accomodation",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "The Beer Cave",
+        "Description": "A two story semi detached house made up of two flats with parking for two vehicles.",
+        "pImage": "./images/properties/image031.jpeg",
+        "AltText": "Image of the Beer Cave, a semi-detached house with a driveway along the left hand side of the property. Property is enclosed from the street via a brick wall and a gate.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7169,
+            -1.8843
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "37",
+        "Location": "Bournemouth",
+        "Type": "Managed Accomodation",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "The Croft",
+        "Description": "A managed apartment block in Bournemouth with en-suite rooms.",
+        "pImage": "./images/properties/image032.jpeg",
+        "AltText": "Image of the Croft, a managed apartment block with parking available to the left of the building with each apartment having a balcony over looking eiter the front or back gardens.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7197,
+            -1.8844
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "38",
+        "Location": "Bournemouth",
+        "Type": "Managed Accomodation",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "White Cottage",
+        "Description": "A managed apartment buildings with en-suite rooms suitable for individuals. Parking spaces for residents is also provided.",
+        "pImage": "./images/properties/image033.jpeg",
+        "AltText": "Image of the White Cottage, a building witrh parking availiable outside the front with plenty of plants are trees surrounding the secluded property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7292,
+            -1.8793
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "39",
+        "Location": "Bournemouth",
+        "Type": "Managed Accomodation",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Wayside",
+        "Description": "A room in a managed house, split into four rooms with each tennant occupying one room. Each tennant has an en-suite with a shared kitchen.",
+        "pImage": "./images/properties/image034.jpeg",
+        "AltText": "Image of the Wayside property, a property with large bay windows on the front of the property and a footpath leading down the side of the property to the front door.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7182,
+            -1.8791
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "40",
+        "Location": "Bournemouth",
+        "Type": "Managed Accomodation",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Pearl Villa",
+        "Description": "A house maintained by a management company. Each tenna has their own room and en-suite with a shared kitchen for all tennants.",
+        "pImage": "./images/properties/image035.jpeg",
+        "AltText": "Image of Pearl Villa, a two story property with a large front driveway and garage suitable for parking multiple cars",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7182,
+            -1.8817
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "41",
+        "Location": "Bournemouth",
+        "Type": "Managed Accomodation",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Nirvana",
+        "Description": "A managed property with two bedroom, one bathroom and a shared kitchen / garden.",
+        "pImage": "./images/properties/image036.jpeg",
+        "AltText": "Image of the Nirvana property, a semi-detached property with a small driveway and a front porch.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7193,
+            -1.8798
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "42",
+        "Location": "Bournemouth",
+        "Type": "Managed Accomodation",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "Malibar Mansion",
+        "Description": "A managed apartment block containing self contained apartments fitted with en-suits and a shared kitchen.",
+        "pImage": "./images/properties/image037.jpeg",
+        "AltText": "Image of the Malibar Mansion, a managed apartment block with rooms looking out onto a lush green courntyard with a huge tree in the center providing shade from the summer days.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7195,
+            -1.8815
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "43",
+        "Location": "Bournemouth",
+        "Type": "Managed Accomodation",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 2.5 miles to uni",
+        "Name": "The Breakers",
+        "Description": "A managed property let out by Bournemouth university. Suitable for four people with a shared kitchen and parking for all tennants.",
+        "pImage": "./images/properties/image038.jpeg",
+        "AltText": "Image of the Breakers property, a property with a large area at the back of the property for parking at the end of a private street.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7197,
+            -1.8812
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "44",
+        "Location": "Boscombe",
+        "Type": "Shared House",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "The Fun House",
+        "Description": "A shared house suitable for eight people, property is surrounding by gardens perfect for summer nights.",
+        "pImage": "./images/properties/image039.jpeg",
+        "AltText": "Image of the fun house, a large property secluded back from the main road. The property is surrounded by gardens with a drive way down the right of the property towards garages for parking.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7245,
+            -1.8345
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "45",
+        "Location": "Boscombe",
+        "Type": "Shared House",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Starfish Shack",
+        "Description": "A cottage converted into a shared house suitable for three people.",
+        "pImage": "./images/properties/image040.jpeg",
+        "AltText": "Image of the Starfish Shack, and old cottage spit into three different properties, the property is styled with an old baige brick finish with windows looking out over the front gardens filled with gravel and shrubs.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7245,
+            -1.8455
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "46",
+        "Location": "Boscombe",
+        "Type": "Shared House",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Green Acres",
+        "Description": "A shared house in Boscombe suitable for three people with parking for one vehicle and a back garden.",
+        "pImage": "./images/properties/image078.jpeg",
+        "AltText": "Image of the Green Acres property, a semi-detached property with a small driveway and a front porch.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7301,
+            -1.8377
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "47",
+        "Location": "Boscombe",
+        "Type": "Shared House",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Barnacle Bastion",
+        "Description": "A shared house above a row of shops in Boscombe suitable for two people.",
+        "pImage": "./images/properties/image042.jpeg",
+        "AltText": "Image of the Barnacle Bastion shared house located above the Natn Restaurant on Boscombe highstreet.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7271,
+            -1.8389
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "48",
+        "Location": "Boscombe",
+        "Type": "Shared House",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Woodlands",
+        "Description": "A shared house suitable for six people with plenty of parking available.",
+        "pImage": "./images/properties/image043.jpeg",
+        "AltText": "Image of the Woodlands shared house covering three stories with parking spaces availiable out the front of the property for all residents.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7215,
+            -1.8382
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "49",
+        "Location": "Boscombe",
+        "Type": "Shared House",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Napier",
+        "Description": "A shared house in Boscombe suitable for four to five people. Parking is provided for all tennants and a garden for entertaining out the back.",
+        "pImage": "./images/properties/image044.jpeg",
+        "AltText": "Image of the Napier shared house covering three stories with parking spaces availiable out the front of the property for all residents.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7224,
+            -1.8312
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "50",
+        "Location": "Boscombe",
+        "Type": "Private Rented",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Dukes Ride",
+        "Description": "A private rented apartment in amongst a block of other apartments.",
+        "pImage": "./images/properties/image045.jpeg",
+        "AltText": "Image of the Dukes Ride proprty a three story apartment with views looking out over the front and rear gardens.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7225,
+            -1.8195
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "51",
+        "Location": "Boscombe",
+        "Type": "Private Rented",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Butts Hill",
+        "Description": "A house for rent suitable for four people, with a garrage, parking and garden.",
+        "pImage": "./images/properties/image046.jpeg",
+        "AltText": "Image of the Butts Hill property, a two story house for rent with a sloped driveway leading to the garage.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7227,
+            -1.8327
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "52",
+        "Location": "Boscombe",
+        "Type": "Private Rented",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Waingels",
+        "Description": "A private rented house located in a new housing estate in the center of Bournemouth.",
+        "pImage": "./images/properties/image047.jpeg",
+        "AltText": "Image of the Waingels house with a large front garden and huge windows covering the front of the property to let in natural light.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7265,
+            -1.8285
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "53",
+        "Location": "Boscombe",
+        "Type": "Private Rented",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Benellen Gardens",
+        "Description": "A private rented house in Boscombe that has parking for four vehicles and a massive back garden.",
+        "pImage": "./images/properties/image048.jpeg",
+        "AltText": "Image of the Benellen Gardens property, a three story house with parking at the rear for all of the tennants.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7255,
+            -1.8485
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "54",
+        "Location": "Boscombe",
+        "Type": "Private Rented",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Branksome Wood",
+        "Description": "A private rented apartment apartment located inside an apartment block. Apartment has shared front and rear gardens for all residents",
+        "pImage": "./images/properties/image049.jpeg",
+        "AltText": "Image of the Branksome Wood apartment, the apartment is located in an apartment block with a shared entrance for multiple residents.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7225,
+            -1.8485
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "55",
+        "Location": "Boscombe",
+        "Type": "Private Rented",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Cassel",
+        "Description": "A two story private ranted property suitable for three people with parking and a rear garden.",
+        "pImage": "./images/properties/image050.jpeg",
+        "AltText": "Image of the Cassel property, a narrow two story building with a rear garden and parking for one car at the front of the property with the main entrance located along the side of the house.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7225,
+            -1.8385
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "56",
+        "Location": "Boscombe",
+        "Type": "Managed Accomodation",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Cheyne Gardens",
+        "Description": "A property that has been converted into two seperate houses. Each of the houses share parking and a back garden.",
+        "pImage": "./images/properties/image051.jpeg",
+        "AltText": "Image of Cheyne Gardens, a semi-detached property with both a front and rear garden with parking for two to three cars on the front drive way.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7247,
+            -1.8275
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "57",
+        "Location": "Boscombe",
+        "Type": "Managed Accomodation",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Elm Gardens",
+        "Description": "A bungalow that is managed by an accomodation provider suitable for one to two people.",
+        "pImage": "./images/properties/image052.jpeg",
+        "AltText": "Image of the Elm Gardens bungalow property located in a secluded private drive away from busy streets.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7255,
+            -1.8265
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "58",
+        "Location": "Boscombe",
+        "Type": "Managed Accomodation",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Heatherbank",
+        "Description": "A row of terrace properties managed by an accomodation provider with each property suitable for three residents.",
+        "pImage": "./images/properties/image053.jpeg",
+        "AltText": "Image of the Heatherbank managed accomodation, a row of terrace properties all managed by the same company. Each property has a small front garden and a large bay window.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7225,
+            -1.8285
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "59",
+        "Location": "Boscombe",
+        "Type": "Managed Accomodation",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Landseer",
+        "Description": "An apartment block managed and maintained by an accomodation provider.",
+        "pImage": "./images/properties/image054.jpeg",
+        "AltText": "Image of the Landseer apartment, a multi-story tower block with residents located in the corner buildings having access to a balcony looking over the gardens and parking spaces below.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7265,
+            -1.8385
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "60",
+        "Location": "Boscombe",
+        "Type": "Managed Accomodation",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Little Forest",
+        "Description": "A row of apartment managed by an accomodation provider. All apartments are fitted with a balcony and the apartment block has a roof top terrace.",
+        "pImage": "./images/properties/image055.jpeg",
+        "AltText": "Image of the Little Forest managed accomodation located upon a hill in Boscombe, with balcony's and roof top terraces covering the length of the building.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7248,
+            -1.8395
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "61",
+        "Location": "Boscombe",
+        "Type": "Managed Accomodation",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Milburn",
+        "Description": "A property in Boscombe managed by an accomodation provider.",
+        "pImage": "./images/properties/image056.jpeg",
+        "AltText": "Image of the Milburn property located in a quiet cul-de-sac. The building has large windows looking out onot the green field in the center of the cul-de-sac.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7248,
+            -1.8385
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "62",
+        "Location": "Boscombe",
+        "Type": "Managed Accomodation",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 5 miles to uni",
+        "Name": "Pembroke",
+        "Description": "A property that is maintained by a accomodation provider with individual rooms for up to twelve residents.",
+        "pImage": "./images/properties/image057.jpeg",
+        "AltText": "Image of the Pembroke property, a managed property with the main entrance along the side of the building with a seating area in the front garden.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7225,
+            -1.8385
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "63",
+        "Location": "Poole",
+        "Type": "Shared House",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Milner",
+        "Description": "A shared house in Poole with private parking and rooms suitable for eight guests.",
+        "pImage": "./images/properties/image058.jpeg",
+        "AltText": "Image of the Milner property, a large property with tropical palm trees surrounding the house with a driveway leading down the right hand side towards parking spaces for the property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7155,
+            -1.9857
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "64",
+        "Location": "Poole",
+        "Type": "Shared House",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Seamoor",
+        "Description": "A shared house in Poole suitable for three people. Parking for two vehicles and a back garden.",
+        "pImage": "./images/properties/image059.jpeg",
+        "AltText": "Image of the Seamore shared house with a front garden, parking and a porch for when you first step into the property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7149,
+            -1.9817
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "65",
+        "Location": "Poole",
+        "Type": "Shared House",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Westgate",
+        "Description": "A shared house in Poole suitable for ten people. The property is surrounded by gardens providing plenty of outdoor space.",
+        "pImage": "./images/properties/image026.jpeg",
+        "AltText": "Image of Westgate property and the properties large green open gardens perfect for entertaining guests.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7155,
+            -1.9823
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "66",
+        "Location": "Poole",
+        "Type": "Shared House",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Bourton",
+        "Description": "A shared house located on the corner of a street. The property is suitable for up to six people with individual rooms and a shared kitchen.",
+        "pImage": "./images/properties/image061.jpeg",
+        "AltText": "Image of the Bourton shared house located on the corner of the block with parking along the side of the building.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7153,
+            -1.9817
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "67",
+        "Location": "Poole",
+        "Type": "Shared House",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Colonnade",
+        "Description": "A shared house in Poole suitable for four people with parking provided for up to two vehicles.",
+        "pImage": "./images/properties/image081.jpeg",
+        "AltText": "Image of the Colonnade a detached property with a single garage, front garden and poch leading you to the houses entrance.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7150,
+            -1.9818
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "68",
+        "Location": "Poole",
+        "Type": "Private Rented",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Logwood House",
+        "Description": "An apartment in an apartment block fitted with a lounge, bedroom, en-suite and a kitchen.",
+        "pImage": "./images/properties/image063.jpeg",
+        "AltText": "Image of the Logwood House, an apartment in a seven story apartment block with a balcony and views out over the well maintained gardens below.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7150,
+            -1.9812
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "69",
+        "Location": "Poole",
+        "Type": "Private Rented",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Durrington",
+        "Description": "An apartment in a new modern apartment block. Each apartment contains an en-suite and a shared roof-top for entertaining.",
+        "pImage": "./images/properties/image082.jpeg",
+        "AltText": "Image of he Durrington property which has a unique design with apartments on both the left and right of the property with a tunnel leading to carpark through the middle.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7150,
+            -1.9825
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "70",
+        "Location": "Poole",
+        "Type": "Private Rented",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Hannington",
+        "Description": "A semi-detached house suitable for three tennants with both front and back gardens.",
+        "pImage": "./images/properties/image065.jpeg",
+        "AltText": "Image of the Hannington property, a property with large bay windows on the front of the property and a footpath leading down the side of the property to the front door.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7153,
+            -1.9879
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "71",
+        "Location": "Poole",
+        "Type": "Private Rented",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Marwell",
+        "Description": "A semi-detached property for rent suitable for two tennants.",
+        "pImage": "./images/properties/image066.jpeg",
+        "AltText": "Image of the Marwll house with a front garden, parking and a porch for when you first step into the property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7152,
+            -1.9859
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "72",
+        "Location": "Poole",
+        "Type": "Private Rented",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Rebbeck",
+        "Description": "A semi-detached property with parking available at the back of the peoperty.",
+        "pImage": "./images/properties/image083.jpeg",
+        "AltText": "Image of the Rebbeck property, a semi-detached property with a gravel front garden and a drive way along the side of the building leading to parking spaces and a garage for the property.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7151,
+            -1.9862
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "73",
+        "Location": "Poole",
+        "Type": "Private Rented",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Scotter",
+        "Description": "An apartment located in a new mordern apartment building. All apartments look out into a court yard peferct for socialising with other students.",
+        "pImage": "./images/properties/image084.jpeg",
+        "AltText": "Image of the Scotter apartment, an apartment located amongst a courtyard of other apartments with modern pathways and walking routes around the complex.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7144,
+            -1.9872
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "74",
+        "Location": "Poole",
+        "Type": "Private Rented",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Spurgeon",
+        "Description": "An apartment in an apartment block with beautiful gardens surrounds the property.",
+        "pImage": "./images/properties/image085.jpeg",
+        "AltText": "Image of the Spurgeon apartment building, each with large windows and balconys looking out over the gardens below.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7154,
+            -1.9869
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "75",
+        "Location": "Poole",
+        "Type": "Managed Accomodation",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Swanmore",
+        "Description": "A new property with private rooms fitted with en-suites suitable for students that is managed and maintained by an accomodation provider.",
+        "pImage": "./images/properties/image086.jpeg",
+        "AltText": "Image of the Swanmore managed accomodation, a new modern accomodation with enough rooms to cater for 200 residents. The front of the accomodation has space for a number of vehicles to park.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7154,
+            -1.9872
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "76",
+        "Location": "Poole",
+        "Type": "Managed Accomodation",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Tamworth",
+        "Description": "A managaged apartment building with studio apartments in Poole.",
+        "pImage": "./images/properties/image087.jpeg",
+        "AltText": "Image of the Tamworth accomodation, a multi-story accomodation block covering six floors with a roof terrace looking out over Poole's old town.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7152,
+            -1.9842
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "77",
+        "Location": "Poole",
+        "Type": "Managed Accomodation",
+        "Price": "£100 - £125wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Trentham",
+        "Description": "An old building that has been modified by an accomodation provider installing facilities required for students such as quiet study rooms.",
+        "pImage": "./images/properties/image088.jpeg",
+        "AltText": "Image of Tentham property, a large building with trees and grades surrounding the front of the property with a driveway leading through the property to parking at the back.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7153,
+            -1.9852
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "78",
+        "Location": "Poole",
+        "Type": "Managed Accomodation",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Wilton",
+        "Description": "A property that is managed by an accomodation provider. Each room is fitted with an en-suite and a desk to facilitate studying.",
+        "pImage": "./images/properties/image089.jpeg",
+        "AltText": "Image of the Wilton property, a large property surround by green gardens on all sides.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7147,
+            -1.9852
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "79",
+        "Location": "Poole",
+        "Type": "Managed Accomodation",
+        "Price": "£126 - £150wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Wolverton",
+        "Description": "A new modern apartment building managed by an accomodation provider. A wide selection of rooms are available with some of the apartments having a balcony.",
+        "pImage": "./images/properties/image090.jpeg",
+        "AltText": "Image of the Wolverton apartment building, a modern new building with palm trees down one side of the building. A range of the properties on the front and side of the building have balconys looking out towards the street.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7149,
+            -1.9863
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "80",
+        "Location": "Poole",
+        "Type": "Managed Accomodation",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Dukes",
+        "Description": "An apartment block managed by an accomodation provider. A number of the building have a balcony and all rooms are fitted with an en-suite.",
+        "pImage": "./images/properties/image091.jpeg",
+        "AltText": "Image of the Dukes accomodation building with parking located along the front of the building and balconys along the back.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7150,
+            -1.9866
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    },
+    {
+        "id": "81",
+        "Location": "Poole",
+        "Type": "Managed Accomodation",
+        "Price": "£151 - £200wk",
+        "Distance": "Less than 10 miles to uni",
+        "Name": "Edwards",
+        "Description": "A multi-story apartment block managed by an accomodation provider. Each apartment is fully furnished  and all apartments have access to a communcal area for events to take place.",
+        "pImage": "./images/properties/image092.jpeg",
+        "AltText": "Image of the Edwards four storey accomodation building with a large area for parking vehicles out the front and garages for additional storage.",
+        "Map": "./images/properties/map1.png",
+        "Geo": [
+            50.7150,
+            -1.9876
+        ],
+        "Slides": {
+            "Slide1": "./images/slides/slide1.jpeg",
+            "Slide2": "./images/slides/slide2.jpeg",
+            "Slide3": "./images/slides/slide3.jpeg"
+        }
+    }
+]
