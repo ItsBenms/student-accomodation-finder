@@ -7,7 +7,7 @@ in order to create different elements of the application.
 
 #### How to install
 
-`git clone {the url to the GitHub repo}`
+`git clone https://github.com/itsbenslife/student-accomodation-finder.git`
 
 `npm install`
 
