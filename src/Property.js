@@ -58,13 +58,13 @@ export function Property(props) {
                                 </div>
                             </Slide>
                             <div className="singlePropDiv">
-                                <h4><strong>Property Name : </strong>{property.Name}</h4>
+                                <h1 className="PropNameStyle"><strong>Property Name : </strong>{property.Name}</h1>
                                 <p><strong>Property Type : </strong>{property.Type}</p>
                                 <p><strong>Property Price : </strong>{property.Price}</p>
                                 <p><strong>Distance : </strong>{property.Distance}</p>
                                 <p><strong>Property Description : </strong>{property.Description}</p>
-                                <Link to={`/`}>
-                                    <h6>Return to the home page</h6>
+                                <Link to={`/`} className="linkStyle">
+                                    <p className="PropNameStyle">Return to the home page</p>
                                 </Link>
                             </div>
                         </Col>

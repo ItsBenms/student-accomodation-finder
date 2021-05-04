@@ -26,24 +26,19 @@ export class Filtering extends React.Component {
     }
 
     render() {
-
-        // console.log(this.state.location)
-        // console.log(this.state.type)
-        // console.log(this.state.price)
-        // console.log(this.state.distance)
-
         return (
             <>
                 <Form inline className="filteringStyle" onSubmit={this.selectHandler}>
                     <Form.Control
                         as="select"
                         className="my-1 mr-sm-2"
-                        id="inlineFormCustomSelectPref"
+                        id="LocationfilterDropDown"
                         custom
                         name="location"
+                        label="Location"
                         onChange={this.selectHandler}
                     >
-                        <option value="Location">Location</option>
+                        <option label="Location" value="Location">Location</option>
                         <option value="Bournemouth">Bournemouth</option>
                         <option value="Boscombe">Boscombe</option>
                         <option value="Poole">Poole</option>
@@ -52,12 +47,13 @@ export class Filtering extends React.Component {
                     <Form.Control
                         as="select"
                         className="my-1 mr-sm-2"
-                        id="inlineFormCustomSelectPref"
+                        id="TypefilterDropDown"
                         custom
                         name="type"
+                        label="Type"
                         onChange={this.selectHandler}
                     >
-                        <option value="Type">Type</option>
+                        <option label="Type" value="Type">Type</option>
                         <option value="Managed Accomodation">Managed Accomodation</option>
                         <option value="Private Rented">Private Rented</option>
                         <option value="Shared House">Shared House</option>
@@ -66,30 +62,17 @@ export class Filtering extends React.Component {
                     <Form.Control
                         as="select"
                         className="my-1 mr-sm-2"
-                        id="inlineFormCustomSelectPref"
+                        id="PriocefilterDropDown"
                         custom
                         name="price"
+                        label="Price"
                         onChange={this.selectHandler}
                     >
-                        <option value="Price">Price</option>
+                        <option label="Price" value="Price">Price</option>
                         <option value="£100 - £125wk">£100 - £125wk</option>
                         <option value="£126 - £150wk">£126 - £150wk</option>
                         <option value="£151 - £200wk">£151 - £200wk</option>
                     </Form.Control>
-
-                    {/* <Form.Control
-                        as="select"
-                        className="my-1 mr-sm-2"
-                        id="inlineFormCustomSelectPref"
-                        custom
-                        name="distance"
-                        onChange={this.selectHandler}
-                    >
-                        <option value="Distance">Distance</option>
-                        <option value="Less than 2.5 miles to uni">Less than 2.5 miles to uni</option>
-                        <option value="Less than 5 miles to uni">Less than 5 miles to uni</option>
-                        <option value="Less than 10 miles to uni">Less than 10 miles to uni</option>
-                    </Form.Control> */}
 
                 </Form>
                 <div className="homeStyle">

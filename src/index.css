@@ -143,3 +143,17 @@ style={{ height: "90%", width: "95%" }}
   background: #efefef;
   text-align: center;
 }
+
+a.linkStyle {
+  color: #000365;
+}
+
+h1.PropNameStyle {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+p.PropNameStyle {
+  font-size: 1rem;
+  font-weight: bold;
+}

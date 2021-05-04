@@ -39,7 +39,6 @@ export class Contact extends React.Component {
     }
 
     render() {
-
         return (
             <Container>
                 <div className="contactStyle">
