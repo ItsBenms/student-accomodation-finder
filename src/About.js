@@ -21,7 +21,7 @@ export function About() {
                     <title>BSPF | About</title>
                     <meta name="description" content="BSPF | What is the Bournemouth Student Property Finder" />
                 </Helmet>
-                <h4>About</h4>
+                <h2>About</h2>
                 <hr></hr>
                 <p>The Bournemouth Student Property Finder is a web application
                 that has been designed and created through the use of a user centered approach
@@ -36,12 +36,12 @@ export function About() {
                 <p>Below are some examples of the stages of design that I carried out through the design sprint
                 process.
                 </p>
-                <h5 className="my-3">User Journey Map</h5>
-                <Image src={usermap} rounded width="90%" alt="User Journey Map" />
-                <h5 className="my-3">Crazy 8s</h5>
-                <Image src={crazy8s} rounded width="90%" alt="Crazy 8s" />
-                <h5 className="my-3">Solution Sketch</h5>
-                <Image src={solutionSketch} rounded width="90%" height="80%" alt="Solution sketch" />
+                <h3 className="AboutStyle my-3">User Journey Map</h3>
+                <Image src={usermap} rounded width="90%" alt="User Journey Map for the Student Property Finder" />
+                <h3 className="AboutStyle my-3">Crazy 8s</h3>
+                <Image src={crazy8s} rounded width="90%" alt="Crazy 8s design sketches for the Student Property Finder" />
+                <h3 className="AboutStyle my-3">Solution Sketch</h3>
+                <Image src={solutionSketch} rounded width="90%" height="80%" alt="Solution sketch for the Student Property Finder" />
             </div>
         </Container>
     );

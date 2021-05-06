@@ -58,7 +58,7 @@ export function Property(props) {
                                 </div>
                             </Slide>
                             <div className="singlePropDiv">
-                                <h1 className="PropNameStyle"><strong>Property Name : </strong>{property.Name}</h1>
+                                <h2 className="PropNameStyle"><strong>Property Name : </strong>{property.Name}</h2>
                                 <p><strong>Property Type : </strong>{property.Type}</p>
                                 <p><strong>Property Price : </strong>{property.Price}</p>
                                 <p><strong>Distance : </strong>{property.Distance}</p>

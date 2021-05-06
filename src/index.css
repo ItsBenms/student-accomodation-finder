@@ -145,10 +145,10 @@ style={{ height: "90%", width: "95%" }}
 }
 
 a.linkStyle {
-  color: #000365;
+  color: #000000;
 }
 
-h1.PropNameStyle {
+h2.PropNameStyle {
   font-size: 1.2rem;
   font-weight: bold;
 }
@@ -156,4 +156,12 @@ h1.PropNameStyle {
 p.PropNameStyle {
   font-size: 1rem;
   font-weight: bold;
+}
+
+h3.PrivacyStyle {
+  font-size: 1rem;
+}
+
+h3.AboutStyle {
+  font-size: 1.2rem;
 }

@@ -52,7 +52,7 @@ export class Properties extends React.Component {
                                     <Col sm={6} className="p-0">
                                         <Image src={propertyDetail.pImage} alt={propertyDetail.AltText} width="90%" className="mb-2 rounded" />
                                         <Link key={propertyDetail.id} to={`/property/${propertyDetail.id}`} className="linkStyle">
-                                            <h1 className="PropNameStyle"><strong>Property Name : </strong>{propertyDetail.Name}</h1>
+                                            <h2 className="PropNameStyle"><strong>Property Name : </strong>{propertyDetail.Name}</h2>
                                         </Link>
                                         <p><strong>Property Type : </strong>{propertyDetail.Type}</p>
                                         <p><strong>Property Price : </strong>{propertyDetail.Price}</p>

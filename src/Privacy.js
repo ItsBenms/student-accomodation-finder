@@ -17,9 +17,9 @@ export function Privacy() {
                     <title>BSPF | Privacy</title>
                     <meta name="description" content="BSPF | Privacy information for the Bournemouth Student Property Finder" />
                 </Helmet>
-                <h4>Privacy Policy</h4>
+                <h2>Privacy Policy</h2>
                 <hr></hr>
-                <h6>Personal Data</h6>
+                <h3 className="PrivacyStyle">Personal Data</h3>
                 <p>As part of the Bournemouth student property finder no personal data
                 is shared to 3rd parties. The only data that will be retained is data
                 submitted through the contact form with relates to the users inputs of
@@ -27,19 +27,19 @@ export function Privacy() {
                 placeholder and no user data will be sent. The Bournemouth Student Property
                 Finder complies with all relevent GDPR regulations.
                 </p>
-                <h6>Images</h6>
+                <h3 className="PrivacyStyle">Images</h3>
                 <p>Images are collected from relevant property API's for use on the
                 Bournemouth Student Property finder to enable students to view
                 what relevant properties look like.
                 </p>
-                <h6>API / Library Usage</h6>
+                <h3 className="PrivacyStyle">API / Library Usage</h3>
                 <p>Several API's and librarys have been used to build the Bournemouth
                 student property finder. Including Leaflets mapping library that
                 makes use of mapping data provided by OpenStreetMap. A React library
                 called Helmet created by the NFL is also being used to track title
                 information accross pages and update the page title when switching pages.
                 </p>
-                <h6>Demo Data</h6>
+                <h3 className="PrivacyStyle">Demo Data</h3>
                 <p>Property data including descriptions, prices, types, locations
                 and pictures has all been gathered manually to make a fully functioning
                 prototype for the application using React. In a production enviroment

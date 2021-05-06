@@ -46,7 +46,7 @@ export class Contact extends React.Component {
                         <title>BSPF | Contact</title>
                         <meta name="description" content="BSPF | Contact the Bournemouth Student Property Finder admin" />
                     </Helmet>
-                    <h4>Contact</h4>
+                    <h2>Contact</h2>
                     <hr></hr>
                     <Form onSubmit={this.submitHandler}>
                         <Form.Row>
