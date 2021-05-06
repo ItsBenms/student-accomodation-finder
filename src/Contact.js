@@ -25,23 +25,37 @@ export class Contact extends React.Component {
         this.state = {
             fName: '',
             lName: '',
-            tArea: ''
+            tArea: '',
+            errormessage: ''
         };
     }
-
     // Prevents page reload / displays alert box with customers first name
     submitHandler = (e) => {
         e.preventDefault();
         alert("Thanks for submitting " + this.state.fName);
     }
-
     // Sets state using name and value pairings
     changeHandler = (e) => {
         let nam = e.target.name;
         let val = e.target.value;
+        let err = ''; // Empty variable to store any input errors
+        // Checks that first name is not a number
+        if (nam === 'fName') {
+            if (val !== '' && Number(val)) {
+                err = <strong>First Name must not be a number</strong>
+            }
+        }
+        // Checks that last name is not a number
+        if (nam === 'lName') {
+            if (val !== '' && Number(val)) {
+                err = <strong>Last Name must not be a number</strong>
+            }
+        }
+        // Sets any errors into state
+        this.setState({ errormessage: err })
+        // Sets users input into state
         this.setState({ [nam]: val })
     }
-
     render() {
         return (
             <Container>
@@ -60,14 +74,12 @@ export class Contact extends React.Component {
                                 {/* changeHandler sets state based on user input */}
                                 <Form.Control type="text" name="fName" placeholder="Enter your first name" required="required" onChange={this.changeHandler} />
                             </Form.Group>
-
                             <Form.Group as={Col} controlId="formGridLName">
                                 <Form.Label>Last Name</Form.Label>
                                 {/* changeHandler sets state based on user input */}
                                 <Form.Control type="text" name="lName" placeholder="Enter your last name" required="required" onChange={this.changeHandler} />
                             </Form.Group>
                         </Form.Row>
-
                         <Form.Row>
                             <Form.Group as={Col} controlId="formGridQuestion">
                                 <Form.Label>Please type your question</Form.Label>
@@ -75,11 +87,12 @@ export class Contact extends React.Component {
                                 <Form.Control as="textarea" rows={3} name="tArea" required="required" onChange={this.changeHandler} />
                             </Form.Group>
                         </Form.Row>
-
                         <Button variant="dark" type="submit">
                             Submit
                         </Button>
                     </Form>
+                    {/* Output any errors */}
+                    {this.state.errormessage}
                 </div>
             </Container>
         );

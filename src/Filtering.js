@@ -52,7 +52,6 @@ export class Filtering extends React.Component {
                         <option value="Boscombe">Boscombe</option>
                         <option value="Poole">Poole</option>
                     </Form.Control>
-
                     <Form.Control
                         as="select"
                         className="my-1 mr-sm-2"
@@ -68,7 +67,6 @@ export class Filtering extends React.Component {
                         <option value="Private Rented">Private Rented</option>
                         <option value="Shared House">Shared House</option>
                     </Form.Control>
-
                     <Form.Control
                         as="select"
                         className="my-1 mr-sm-2"
@@ -84,7 +82,6 @@ export class Filtering extends React.Component {
                         <option value="£126 - £150wk">£126 - £150wk</option>
                         <option value="£151 - £200wk">£151 - £200wk</option>
                     </Form.Control>
-
                 </Form>
                 <div className="homeStyle">
                     {/* State is passed on as props to the Properties component */}
