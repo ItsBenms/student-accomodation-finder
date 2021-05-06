@@ -1,13 +1,19 @@
 import React from 'react'
 
+// React-Bootstrap Imports
 import {
     Nav
 } from 'react-bootstrap';
 
+// React Router imports
 import {
     //Link
 } from 'react-router-dom';
 
+/*
+Navigation component
+Displays the navigation bar across all pages
+ */
 export function Navigation() {
     return (
         <Nav className="navBarStyle">

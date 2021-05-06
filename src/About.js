@@ -1,22 +1,31 @@
 import React from 'react';
 
+// React-Bootstrap Imports
 import {
     Container,
     Image
 } from 'react-bootstrap';
 
+// React-Helment Imports
 import {
     Helmet
 } from "react-helmet";
 
-import usermap from './img/about/usermap.png';
+// Local image imports
+import usermap from './img/about/usermap.png'; // Images stored in variable
 import crazy8s from './img/about/crazy8s.png';
 import solutionSketch from './img/about/solution_sketch.png';
 
+/* 
+About component 
+Shows an overview of the process taken to build the prototype.
+Uses local image imports referenced via variable name to reference images.
+ */
 export function About() {
     return (
         <Container>
             <div className="aboutStyle">
+                {/* React Helment to modify page header and meta tags */}
                 <Helmet>
                     <title>BSPF | About</title>
                     <meta name="description" content="BSPF | What is the Bournemouth Student Property Finder" />
@@ -37,6 +46,7 @@ export function About() {
                 process.
                 </p>
                 <h3 className="AboutStyle my-3">User Journey Map</h3>
+                {/* Images imported and referenced using variables */}
                 <Image src={usermap} rounded width="90%" alt="User Journey Map for the Student Property Finder" />
                 <h3 className="AboutStyle my-3">Crazy 8s</h3>
                 <Image src={crazy8s} rounded width="90%" alt="Crazy 8s design sketches for the Student Property Finder" />

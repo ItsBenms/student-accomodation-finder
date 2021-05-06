@@ -1,16 +1,23 @@
 import React from 'react';
 
+// React-Bootstrap Imports
 import {
-    Form,
-    //Button
+    Form
 } from 'react-bootstrap';
 
+// Component imports
 import { Properties } from './Properties';
 
+/*
+Filtering component
+Displays filtering options to narrow down property searches
+Sets user input in the components state
+User input is passed on as props
+ */
 export class Filtering extends React.Component {
     constructor(props) {
         super(props)
-
+        // Sets original state
         this.state = {
             location: 'Boscombe',
             type: 'Shared House',
@@ -19,6 +26,7 @@ export class Filtering extends React.Component {
         };
     }
 
+    // Sets state using name and value pairings
     selectHandler = (e) => {
         let nam = e.target.name;
         let val = e.target.value;
@@ -36,6 +44,7 @@ export class Filtering extends React.Component {
                         custom
                         name="location"
                         label="Location"
+                        /* selectHandler sets state based on user input */
                         onChange={this.selectHandler}
                     >
                         <option label="Location" value="Location">Location</option>
@@ -51,6 +60,7 @@ export class Filtering extends React.Component {
                         custom
                         name="type"
                         label="Type"
+                        /* selectHandler sets state based on user input */
                         onChange={this.selectHandler}
                     >
                         <option label="Type" value="Type">Type</option>
@@ -66,6 +76,7 @@ export class Filtering extends React.Component {
                         custom
                         name="price"
                         label="Price"
+                        /* selectHandler sets state based on user input */
                         onChange={this.selectHandler}
                     >
                         <option label="Price" value="Price">Price</option>
@@ -76,7 +87,8 @@ export class Filtering extends React.Component {
 
                 </Form>
                 <div className="homeStyle">
-                    <Properties filterLocation={this.state.location} filterType={this.state.type} filterPrice={this.state.price} filterDistance={this.state.distance} />
+                    {/* State is passed on as props to the Properties component */}
+                    <Properties filterLocation={this.state.location} filterType={this.state.type} filterPrice={this.state.price} />
                 </div>
             </>
         );

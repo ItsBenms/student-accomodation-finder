@@ -1,18 +1,24 @@
 import React from 'react';
 
+// React-Bootstrap Imports
 import {
     Container
 } from 'react-bootstrap';
 
+// React-Helment Imports
 import {
     Helmet
 } from "react-helmet";
 
+/*
+Privacy component
+Displays a privacy policy for the Student Property Finder
+ */
 export function Privacy() {
-
     return (
         <Container>
             <div className="privacyStyle">
+                {/* React Helment to modify page header and meta tags */}
                 <Helmet>
                     <title>BSPF | Privacy</title>
                     <meta name="description" content="BSPF | Privacy information for the Bournemouth Student Property Finder" />

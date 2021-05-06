@@ -1,16 +1,21 @@
 import React from 'react'
 
+// React-Bootstrap Imports
 import {
     Nav
 } from 'react-bootstrap';
 
+/*
+Footer component
+Displays footer at the bottom each page
+ */
 export function Footer() {
-
     return (
         <>
-            <div className="clear"></div>
+            <div className="clear"></div> {/* Ensures no content over-runs footer */}
             <div>
-                <Nav className="footerStyle fixed-bottom">
+                <Nav className="footerStyle fixed-bottom"> {/* Fixed Bottom class ensures footer doesn't move */}
+                    {/* Nav links to other components utilising React-Router */}
                     <Nav.Item>
                         <Nav.Link>Copyright - s5209890</Nav.Link>
                     </Nav.Item>
