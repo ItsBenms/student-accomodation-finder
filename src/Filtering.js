@@ -70,7 +70,7 @@ export class Filtering extends React.Component {
                     <Form.Control
                         as="select"
                         className="my-1 mr-sm-2"
-                        id="PriocefilterDropDown"
+                        id="PricefilterDropDown"
                         custom
                         name="price"
                         label="Price"

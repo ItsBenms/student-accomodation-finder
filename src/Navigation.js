@@ -17,7 +17,7 @@ Displays the navigation bar across all pages
 export function Navigation() {
     return (
         <Nav className="navBarStyle">
-            <Nav.Item>
+            <Nav.Item> {/* Bootstrap links forming the navigation menu */}
                 <Nav.Link href="/">Home</Nav.Link>
             </Nav.Item>
             <Nav.Item>

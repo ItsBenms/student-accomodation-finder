@@ -16,7 +16,7 @@ export function Footer() {
             <div>
                 <Nav className="footerStyle fixed-bottom"> {/* Fixed Bottom class ensures footer doesn't move */}
                     {/* Nav links to other components utilising React-Router */}
-                    <Nav.Item>
+                    <Nav.Item> {/* Bootstrap Links forming the footer */}
                         <Nav.Link>Copyright - s5209890</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>

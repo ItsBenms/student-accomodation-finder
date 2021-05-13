@@ -34,7 +34,7 @@ export function Property(props) {
     let { id } = props.match.params; // Destructure id from the props
     const property = PropertiesData.find((property) => property.id === id); // Finds property via id and stores in property variable
 
-    if (property) {
+    if (property) { // Checks if a propertry with the give ID is true
         return (
             <div key={property.id} className="singlePropStyle">
                 {/* React Helment to modify page header and meta tags */}
